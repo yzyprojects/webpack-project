@@ -1,0 +1,14 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack study",
+  "main": "index.js",
+  "author": "yzy",
+  "license": "MIT",
+  "dependencies": {
+    "webpack-cli": "^4.7.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.49.0"
+  }
+}
