@@ -81,9 +81,9 @@ module.exports = {
         }),
         new DashboardPlugin(),
         new HtmlWebpackPlugin(),
-        new Analyer()
+        // new Analyer()
     ],
-    optimization:{
+    optimization:{ 
         splitChunks: {
             chunks: 'all'
         },
